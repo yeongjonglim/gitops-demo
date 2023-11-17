@@ -25,6 +25,7 @@ spec:
         ports:
         - containerPort: 6379
           name: redis
+          # Make a small change
 ---
 apiVersion: v1
 kind: Service
