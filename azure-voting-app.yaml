@@ -94,4 +94,3 @@ spec:
             name: azure-vote-front
             port:
               number: 80
-        path: /
